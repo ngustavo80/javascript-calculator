@@ -1,1 +1,1 @@
-let calculor = new CalcController()
+let calculor = new CalculatorController()
